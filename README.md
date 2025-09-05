@@ -16,3 +16,14 @@ The rendered output looks like this:
   </head>
 </html>
 
+
+
+To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+
+***
+
+---
+
+_________________
+The rendered output of all three looks identical:
+
